@@ -14,7 +14,7 @@ PKG_RELEASE:=4
 PKG_SOURCE_PROTO:=git
 PKG_SOURCE_URL:=https://github.com/huajun102/wifidog-gateway
 PKG_SOURCE_VERSION:=$(PKG_VERSION)
-PKG_MIRROR_HASH:=07f856c65f89c04f39207a11578490590489de2a58031aede6599f88441d83fd
+PKG_MIRROR_HASH:=skip
 
 PKG_MAINTAINER:=Michael Haas <haas@computerlinguist.org>
 PKG_LICENSE:=GPL-2.0-or-later
